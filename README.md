@@ -5,4 +5,4 @@ __1. Telegram channel: <a href="http://t.me/arifulin_channel/">Click me</a>.__<b
 __2. VK: <a href="http://vk.com/arifulin/">Click me</a>.__<br>
 __3. GitHub: <a href="http://github.com/damir-arifulin/">Click me</a>.__<br>
 ### My projects! 😍
-__1. Account: <a href="http://github.com/damir-arifulin/accounts/">Click me</a>.__
+__1. Accounts: <a href="http://github.com/damir-arifulin/accounts/">Click me</a>.__
